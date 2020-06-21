@@ -5,5 +5,9 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("HelloWorld");
 	}
+	
+	public static void test1(){
+		System.out.println("added test1 method");
+	}
 
 }
